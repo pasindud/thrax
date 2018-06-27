@@ -23,8 +23,9 @@
 
 #include <cstdarg>
 #include <cstdio>
-
 #include <algorithm>
+
+#include <numeric>
 #include <fstream>
 #include <memory>
 #include <string>
