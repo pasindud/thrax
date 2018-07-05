@@ -23,7 +23,7 @@
 
 #include <cstdarg>
 #include <cstdio>
-
+#include <numeric>
 #include <algorithm>
 #include <fstream>
 #include <memory>
