@@ -26,7 +26,7 @@
 #include <fst/arc.h>
 #include <fst/fst.h>
 #include <fst/symbol-table.h>
-#include <fst/vector-fst.h>
+#include <fst/fstlib.h>
 #include <thrax/grm-manager.h>
 
 enum TokenType { SYMBOL = 1, BYTE = 2, UTF8 = 3 };

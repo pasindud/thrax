@@ -8,7 +8,7 @@
 #include <fst/fst.h>
 #include <fst/string.h>
 #include <fst/symbol-table.h>
-#include <fst/vector-fst.h>
+#include <fst/fstlib.h>
 #include <thrax/grm-manager.h>
 #include <../bin/utildefs.h>
 #include <../bin/rewrite-tester-utils.h>

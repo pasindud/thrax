@@ -35,7 +35,7 @@
 #include <fst/fstlib.h>
 #include <fst/fst.h>
 #include <fst/string.h>
-#include <fst/vector-fst.h>
+#include <fst/fstlib.h>
 #include <thrax/make-parens-pair-vector.h>
 #include <thrax/compat/stlfunctions.h>
 

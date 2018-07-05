@@ -33,7 +33,7 @@
 #include <fst/concat.h>
 #include <fst/arc.h>
 #include <fst/fst.h>
-#include <fst/vector-fst.h>
+#include <fst/fstlib.h>
 #include <fst/weight.h>
 #include <thrax/collection-node.h>
 #include <thrax/fst-node.h>

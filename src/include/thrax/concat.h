@@ -13,7 +13,7 @@
 #include <fst/concat.h>
 #include <fst/fst.h>
 #include <fst/symbol-table.h>
-#include <fst/vector-fst.h>
+#include <fst/fstlib.h>
 #include <thrax/datatype.h>
 #include <thrax/function.h>
 

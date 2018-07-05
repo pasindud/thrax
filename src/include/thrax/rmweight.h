@@ -8,7 +8,7 @@
 #include <thrax/compat/compat.h>
 #include <fst/fst.h>
 #include <fst/invert.h>
-#include <fst/vector-fst.h>
+#include <fst/fstlib.h>
 #include <thrax/datatype.h>
 #include <thrax/function.h>
 

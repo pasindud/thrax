@@ -7,7 +7,7 @@
 #include <fst/compat.h>
 #include <thrax/compat/compat.h>
 #include <fst/arc.h>
-#include <fst/vector-fst.h>
+#include <fst/fstlib.h>
 #include <thrax/compat/stlfunctions.h>
 
 namespace fst {
